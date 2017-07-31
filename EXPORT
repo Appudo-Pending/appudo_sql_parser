@@ -1,0 +1,4 @@
+EXPORT {
+  global: verify; free_parser;
+  local: *;
+};
